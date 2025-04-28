@@ -4,8 +4,9 @@
   <img src="https://raw.githubusercontent.com/Hamed233/Cybersecurity-Mastery-Roadmap/main/images/cybersecurity_roadmap.png" alt="Cybersecurity Roadmap Banner" width="800">
 </p>
 
-Personal note: 
+**Personal note**: 
 - I came across this repo on the [I Created the Ultimate Cybersecurity Mastery Roadmap (FREE & Open Source!)](https://www.reddit.com/r/cybersecurity/comments/1k9bhvz/i_created_the_ultimate_cybersecurity_mastery/) Reddit post ([r/cybersecurity](https://www.reddit.com/r/cybersecurity/))
+- From comments in that Reddit post, I added additional security roadmap. See below.
 
 > **A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance**
 
@@ -971,6 +972,10 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [IntelTechniques](https://inteltechniques.com/tools/) - OSINT tools collection
 
 ## Certifications Guide
+
+Besides the notes below, there are also good resources. Some are included here:
+- Paul Jerimy's [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+- Rafeeq Rehman's [CISO Mindmap 2025: What do InfoSec Professionals Really Do?](https://rafeeqrehman.com/2025/03/30/ciso-mindmap-2025-what-do-infosec-professionals-really-do/)
 
 ### Entry-Level Certifications
 
