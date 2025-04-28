@@ -4,6 +4,9 @@
   <img src="https://raw.githubusercontent.com/Hamed233/Cybersecurity-Mastery-Roadmap/main/images/cybersecurity_roadmap.png" alt="Cybersecurity Roadmap Banner" width="800">
 </p>
 
+Personal note: 
+- I came across this repo on the [I Created the Ultimate Cybersecurity Mastery Roadmap (FREE & Open Source!)](https://www.reddit.com/r/cybersecurity/comments/1k9bhvz/i_created_the_ultimate_cybersecurity_mastery/) Reddit post ([r/cybersecurity](https://www.reddit.com/r/cybersecurity/))
+
 > **A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance**
 
 ## 📋 Table of Contents
