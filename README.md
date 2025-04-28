@@ -979,7 +979,7 @@ Besides the notes below, there are also good resources. Some are included here:
 
 ### Entry-Level Certifications
 
-- [CompTIA Security+](https://www.comptia.org/certifications/security) - Foundational cybersecurity certification
+- **[CompTIA Security+](https://www.comptia.org/certifications/security) - Foundational cybersecurity certification**
   - **Focus Areas**: Network security, threats and vulnerabilities, identity management, cryptography
   - **Prerequisites**: None, but Network+ and 2 years of experience recommended
   - **Exam Format**: 90 questions, 90 minutes, performance-based and multiple choice
@@ -1030,7 +1030,7 @@ Besides the notes below, there are also good resources. Some are included here:
   - **Validity**: 3 years, renewable with continuing education
   - **Career Paths**: Ethical hacker, security analyst, penetration tester
 
-- [GIAC Security Essentials (GSEC)](https://www.giac.org/certification/security-essentials-gsec) - Security essentials
+- **[GIAC Security Essentials (GSEC)](https://www.giac.org/certification/security-essentials-gsec) - Security essentials**
   - **Focus Areas**: Security administration, risk management, cryptography, access controls
   - **Prerequisites**: None
   - **Exam Format**: 180 questions, 5 hours, multiple choice and performance-based
@@ -1046,7 +1046,7 @@ Besides the notes below, there are also good resources. Some are included here:
   - **Validity**: Lifetime
   - **Career Paths**: Penetration tester, red team operator, security consultant
 
-- [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP) - Security management
+- **[Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP) - Security management**
   - **Focus Areas**: Security and risk management, asset security, security architecture, network security, identity management, security assessment, security operations, software development security
   - **Prerequisites**: 5 years of experience in at least 2 domains
   - **Exam Format**: 100-150 questions, 3 hours, adaptive testing
@@ -1069,7 +1069,7 @@ Besides the notes below, there are also good resources. Some are included here:
 
 ### Specialized Certifications
 
-- [Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP) - Cloud security
+- **[Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP) - Cloud security**
   - **Focus Areas**: Cloud concepts, architecture, design, security, operations, legal compliance
   - **Prerequisites**: 5 years of IT experience, 3 years in security, 1 year in cloud security
   - **Exam Format**: 125 questions, 3 hours, multiple choice
